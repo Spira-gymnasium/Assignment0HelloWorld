@@ -1,3 +1,3 @@
 import main
 
-assert hello.hello_world() == "Hello World!"
+assert main.hello_world() == "Hello World!"
